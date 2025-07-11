@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/9afe0493484903.5e66500f8dea4.gif" height="250" width="400" frameborder="0" scrolling="no" " alt="Logo" /> </p>
+<p align="center"> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXk4ZDh0eXZ2emZtMjE4ZXE2eDA5ZzA1dHMwZmprOHF3bWtlNmQ4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UDclWKlmfmq7twI3iJ/giphy.gif" height="250" width="400" frameborder="0" scrolling="no" " alt="Logo" /> </p>
 
 
 <h1 align="center">Hi 👋, I'm Sagnik Bose</h1>
