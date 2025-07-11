@@ -139,6 +139,15 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagnikbose-11-01&theme=onestar" alt="sagnikbose-11-01" /></a> </p><br>
 
 
+
+<h2>🎧 Last Listened to</h2>
+<div align="center">
+  <a href="https://open.spotify.com/user/oyb1dp2ijypq3hbd6rj468p6y">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vzsladd5jbnxtgtmtnkml45km4&count=7&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+
 <h2>✍️ Random Quotes</h2>
 <p align="center">
   <img src="https://github.com/sagnikbose-11-01/sagnikbose-11-01/blob/main/assets/quotes.png" alt="Random Dev Quote" />
