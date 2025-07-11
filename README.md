@@ -105,6 +105,29 @@
 </p>
 
 
+<h2>📊 GitHub Statistics</h2>
+
+<table>
+  <tr>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=sagnikbose-11-01&show_icons=true&theme=dark&hide_border=true" alt="Sagnik's GitHub Stats" />
+    </td>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagnikbose-11-01&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagnikbose-11-01&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sagnikbose-11-01&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/sagnikbose-11-01?label=Followers&style=social" alt="GitHub Followers" />
+</p>
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagnikbose-11-01&show_icons=true&locale=en&layout=compact" alt="sagnikbose-11-01" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagnikbose-11-01&show_icons=true&locale=en" alt="sagnikbose-11-01" /></p>
