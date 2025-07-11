@@ -125,11 +125,11 @@
   <img src="https://img.shields.io/github/followers/sagnikbose-11-01?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagnikbose-11-01&show_icons=true&locale=en&layout=compact" alt="sagnikbose-11-01" /></p>
+<h2>📈 Github Graph:</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sagnikbose-11-01/sagnikbose-11-01/main/assets/af8c598a-fbb9-4e56-a30e-5de597c603f4.png" alt="GitHub Contribution Graph by Anish" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagnikbose-11-01&show_icons=true&locale=en" alt="sagnikbose-11-01" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagnikbose-11-01&layout=compact&theme=dark&hide_border=tru" alt="sagnikbose-11-01" /></p>
 
 
 
