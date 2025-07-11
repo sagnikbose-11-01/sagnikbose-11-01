@@ -130,7 +130,7 @@
 </p>
 
 <h2>🏆 GitHub Trophies</h2>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagnikbose-11-01" alt="sagnikbose-11-01" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagnikbose-11-01&theme=onestar" alt="sagnikbose-11-01" /></a> </p><br>
 
 
 <h2>✍️ Random Quotes</h2>
