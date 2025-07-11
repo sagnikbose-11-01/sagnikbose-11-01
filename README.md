@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I can debug code faster with music on than in complete silence — turns out, my brain prefers beats with bugs! 🎧💻🐞**
 
-<h3 align="left">🤝 Connect with me</h3>
+<h2 align="left">🤝 Connect with me</h2>
 <p align="left">
 <a href="https://twitter.com/bose89231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bose89231" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sagnikbose1101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagnikbose1101" height="30" width="40" /></a>
@@ -25,7 +25,7 @@
 </p>
 
 
-<h3 align="left">🛠️ Languages and Tools</h3>
+<h2 align="left">🛠️ Languages and Tools</h2>
 <p align="left"> 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
@@ -94,7 +94,7 @@
 
 
 
-<h3 align="left">💻 My Workspace</h3>
+<h2 align="left">💻 My Workspace</h2>
 <p align="left">
   <img src="https://img.shields.io/badge/ASUS-TUF%20Gaming%20F15-blue?logo=asus&logoColor=white" alt="ASUS TUF Gaming F15"/>
   <img src="https://img.shields.io/badge/Windows-11-blue?logo=windows11&logoColor=white" alt="Windows 11"/>
@@ -103,7 +103,7 @@
 </p>
 
 
-<h3>📊 GitHub Statistics</h3>
+<h2>📊 GitHub Statistics</h2>
 
 <table>
   <tr>
@@ -118,16 +118,16 @@
 
 
 
-<h3>📈 GitHub Graph</h3>
+<h2>📈 GitHub Graph</h2>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sagnikbose-11-01&theme=github-compact" alt="GitHub Contribution Graph by Sagnik" />
 </p>
 
-<h3>🏆 GitHub Trophies</h3>
+<h2>🏆 GitHub Trophies</h2>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagnikbose-11-01" alt="sagnikbose-11-01" /></a> </p>
 
 
-<h3>✍️ Random Dev Quote</h3>
+<h2>✍️ Random Dev Quote</h2>
 
 ![Quote](https://img.shields.io/badge/Quote-%22If%20debugging%20is%20the%20process%20of%20removing%20bugs%2C%20then%20programming%20must%20be%20the%20process%20of%20putting%20them%20in.%22--Edsger%20Dijkstra-orange?style=for-the-badge)
 
