@@ -129,8 +129,11 @@
 
 <h2>✍️ Random Dev Quote</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/Quote-%22If%20debugging%20is%20the%20process%20of%20removing%20bugs%2C%20then%20programming%20must%20be%20the%20process%20of%20putting%20them%20in.%22--Edsger%20Dijkstra-orange?style=for-the-badge" alt="Random Dev Quote" />
+  <img src="https://raw.githubusercontent.com/sagnikbose-11-01
+/sagnikbose-11-01
+/main/assets/quotes.png" alt="Random Dev Quote" />
 </p>
+
 
 
 
