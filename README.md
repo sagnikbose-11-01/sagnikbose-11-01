@@ -96,6 +96,15 @@
 </p>
 
 
+<h3 align="left">My Workspace</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/ASUS-TUF%20Gaming%20F15-blue?logo=asus&logoColor=white" alt="ASUS TUF Gaming F15"/>
+  <img src="https://img.shields.io/badge/Windows-11-blue?logo=windows11&logoColor=white" alt="Windows 11"/>
+  <img src="https://img.shields.io/badge/Intel-Core_i5_10300H-black?logo=intel&logoColor=white" alt="Intel Core i5-10300H"/>
+  <img src="https://img.shields.io/badge/RAM-8GB-brightgreen?logo=ram&logoColor=white" alt="8 GB RAM"/>
+</p>
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagnikbose-11-01&show_icons=true&locale=en&layout=compact" alt="sagnikbose-11-01" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagnikbose-11-01&show_icons=true&locale=en" alt="sagnikbose-11-01" /></p>
