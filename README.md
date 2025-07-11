@@ -119,10 +119,6 @@
 </table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagnikbose-11-01&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=sagnikbose-11-01&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/sagnikbose-11-01?label=Followers&style=social" alt="GitHub Followers" />
 </p>
