@@ -116,10 +116,6 @@
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sagnikbose-11-01&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/sagnikbose-11-01?label=Followers&style=social" alt="GitHub Followers" />
-</p>
 
 
 <h2>📈 GitHub Graph</h2>
@@ -133,6 +129,10 @@
 
 
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sagnikbose-11-01&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/sagnikbose-11-01?label=Followers&style=social" alt="GitHub Followers" />
+</p>
 
 
 
