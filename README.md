@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sagnik Bose</h1>
 <h3 align="center">🚀 Full Stack Developer | 🎨 Frontend Wizard | ☁️ DevOps Enthusiast <br/> 🌱 Currently pursuing B.Tech in CSE | 🧠 Lifelong learner</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sagnikbose-11-01&label=Profile%20views&color=0e75b6&style=flat" alt="sagnikbose-11-01" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagnikbose-11-01" alt="sagnikbose-11-01" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/bose89231" target="blank"><img src="https://img.shields.io/twitter/follow/bose89231?logo=twitter&style=for-the-badge" alt="bose89231" /></a> </p>
 
 - 🔭 I’m currently working on **Frontend Projects**
 
@@ -130,6 +126,13 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sagnikbose-11-01&theme=github-compact" alt="GitHub Contribution Graph by Sagnik" />
 </p>
+
+<h2>🏆 GitHub Trophies</h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sagnikbose-11-01&label=Profile%20views&color=0e75b6&style=flat" alt="sagnikbose-11-01" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagnikbose-11-01" alt="sagnikbose-11-01" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/bose89231" target="blank"><img src="https://img.shields.io/twitter/follow/bose89231?logo=twitter&style=for-the-badge" alt="bose89231" /></a> </p>
 
 
 
