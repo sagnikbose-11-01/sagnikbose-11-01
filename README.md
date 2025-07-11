@@ -103,7 +103,7 @@
 </p>
 
 
-<h2>📊 GitHub Statistics</h2>
+<h3>📊 GitHub Statistics</h3>
 
 <table>
   <tr>
@@ -118,16 +118,16 @@
 
 
 
-<h2>📈 GitHub Graph</h2>
+<h3>📈 GitHub Graph</h3>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sagnikbose-11-01&theme=github-compact" alt="GitHub Contribution Graph by Sagnik" />
 </p>
 
-<h2>🏆 GitHub Trophies</h2>
+<h3>🏆 GitHub Trophies</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagnikbose-11-01" alt="sagnikbose-11-01" /></a> </p>
 
 
-## ✍️ Random Dev Quote
+<h3>✍️ Random Dev Quote</h3>
 
 ![Quote](https://img.shields.io/badge/Quote-%22If%20debugging%20is%20the%20process%20of%20removing%20bugs%2C%20then%20programming%20must%20be%20the%20process%20of%20putting%20them%20in.%22--Edsger%20Dijkstra-orange?style=for-the-badge)
 
