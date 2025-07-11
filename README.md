@@ -104,27 +104,23 @@
 
 
 <h2>📊 GitHub Statistics</h2>
-<p align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=sagnikbose-11-01&date_format=n%2Fj%5B%2FY%5D&border=FFFFFF&ring=2BBC8A&currStreakNum=FFFFFF&stroke=FFFFFF&background=161B22&sideNums=FFFFFF&sideLabels=2BBC8A&dates=ECECEC&currStreakLabel=2BBC8A&card_height=206" />
-</p>
+<h3 align="left">Stars</h3>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagnikbose-11-01&layout=compact&theme=highcontrast" alt=sagnikbose-11-01 />
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sagnikbose-11-01&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=161b22" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sagnikbose-11-01 &locale=en&hide_title=false&title_color=ffffff&card_width=400&langs_count=8&bg_color=161b22&stroke=FFFFFF&text_color=c9cacc&hide_border=false&border=FFFFFF&hide_progress=true" width="49%"/>
-</p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=sagnikbose-11-01&show_icons=true&locale=en&theme=highcontrast" alt="sagnikbose-11-01" /></p>
 
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sagnikbose-11-01&theme=neon_dark" alt="sagnikbose-11-01" /></p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<div align="center">
+<a href="https://github.com/sagnikbose-11-01">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sagnikbose-11-01&theme=highcontrast" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sagnikbose-11-01&theme=highcontrast" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sagnikbose-11-01&theme=highcontrast" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sagnikbose-11-01&theme=highcontrast" height="180em" />
+</div>
+<br>
 
-<table>
-  <tr>
-    <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=sagnikbose-11-01&show_icons=true&theme=dark&hide_border=true" alt="Sagnik's GitHub Stats" />
-    </td>
-    <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagnikbose-11-01&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
 
 
 
