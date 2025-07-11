@@ -128,4 +128,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagnikbose-11-01&show_icons=true&locale=en" alt="sagnikbose-11-01" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagnikbose-11-01&" alt="sagnikbose-11-01" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagnikbose-11-01&theme=dark&hide_border=true&background=000000&ring=7C3AED&currStreakLabel=FACC15&currStreakNum=FACC15" alt="GitHub Streak Stats"/>
+</p>
+
