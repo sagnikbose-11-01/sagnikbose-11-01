@@ -126,7 +126,7 @@
 
 <h2>📈 GitHub Graph</h2>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sagnikbose-11-01&theme=github-compact" alt="GitHub Contribution Graph by Sagnik" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sagnikbose-11-01&theme=merko" alt="GitHub Contribution Graph by Sagnik" />
 </p>
 
 <h2>🏆 GitHub Trophies</h2>
