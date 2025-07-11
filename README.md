@@ -1,3 +1,6 @@
+<p align="center"> <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/9afe0493484903.5e66500f8dea4.gif" height="250" width="400" frameborder="0" scrolling="no" " alt="Logo" /> </p>
+
+
 <h1 align="center">Hi 👋, I'm Sagnik Bose</h1>
 <h3 align="center">🚀 Full Stack Developer | 🎨 Frontend Wizard | ☁️ DevOps Enthusiast <br/> 🌱 Currently pursuing B.Tech in CSE | 🧠 Lifelong learner</h3>
 
