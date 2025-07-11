@@ -121,16 +121,17 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sagnikbose-11-01&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/sagnikbose-11-01?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://streak-stats.demolab.com?user=sagnikbose-11-01&theme=tokyonight&hide_border=true" alt="sagnikbose-11-01 GitHub Streak Stats" />
 </p>
+
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagnikbose-11-01&show_icons=true&locale=en&layout=compact" alt="sagnikbose-11-01" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagnikbose-11-01&show_icons=true&locale=en" alt="sagnikbose-11-01" /></p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sagnikbose-11-01&theme=tokyonight&hide_border=true" alt="sagnikbose-11-01 GitHub Streak Stats" />
-</p>
+
 
 
 
