@@ -129,9 +129,7 @@
 
 <h2>✍️ Random Dev Quote</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sagnikbose-11-01
-/sagnikbose-11-01
-/main/assets/quotes.png" alt="Random Dev Quote" />
+  <img src="https://github.com/sagnikbose-11-01/sagnikbose-11-01/blob/main/assets/quotes.png" alt="Random Dev Quote" />
 </p>
 
 
