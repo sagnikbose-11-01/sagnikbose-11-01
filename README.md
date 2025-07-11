@@ -105,6 +105,11 @@
 
 <h2>📊 GitHub Statistics</h2>
 
+<p align="center">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=sagnikbose-11-01
+&date_format=n%2Fj%5B%2FY%5D&border=FFFFFF&ring=2BBC8A&currStreakNum=FFFFFF&stroke=FFFFFF&background=161B22&sideNums=FFFFFF&sideLabels=2BBC8A&dates=ECECEC&currStreakLabel=2BBC8A&card_height=206" />
+</p>
+
 <table>
   <tr>
     <td>
@@ -127,7 +132,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagnikbose-11-01" alt="sagnikbose-11-01" /></a> </p>
 
 
-<h2>✍️ Random Dev Quote</h2>
+<h2>✍️ Random Quotes</h2>
 <p align="center">
   <img src="https://github.com/sagnikbose-11-01/sagnikbose-11-01/blob/main/assets/quotes.png" alt="Random Dev Quote" />
 </p>
