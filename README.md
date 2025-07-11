@@ -125,10 +125,8 @@
   <img src="https://img.shields.io/github/followers/sagnikbose-11-01?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
-<h2>📈 GitHub Graph</h2>
-[![Sagnik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sagnikbose-11-01&theme=github-compact)](https://github.com/sagnikbose-11-01/github-readme-activity-graph)
 
-<h2>📈 Github Graph:</h2>
+<h2>📈 GitHub Graph</h2>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sagnikbose-11-01&theme=github-compact" alt="GitHub Contribution Graph by Sagnik" />
 </p>
