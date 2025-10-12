@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXk4ZDh0eXZ2emZtMjE4ZXE2eDA5ZzA1dHMwZmprOHF3bWtlNmQ4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UDclWKlmfmq7twI3iJ/giphy.gif" height="250" width="300" frameborder="0" scrolling="no" " alt="Logo" /> </p>
+<p align="center"> <img src="https://camo.githubusercontent.com/7abbd416e202c692d4c3a3b999b3b40f39757ab629c2f06f2941d023cf18a076/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578616d7332616a4d774d44517a6457526e626a49314e6d3535636d4e694e47466a597a463061326832596d6377636d68704e5842304e695a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f373858434642474f6c53366b65593142696c2f67697068792e676966" height="250" width="300" frameborder="0" scrolling="no" " alt="Logo" /> </p>
 
 
 <h1 align="center">Hi 👋, I'm Sagnik Bose</h1>
