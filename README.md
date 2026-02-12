@@ -35,7 +35,7 @@
 
 
 <h2 align="left">🚀 Tech Arsenal</h2>
-<p align="center">
+<p align="left">
 
 <!-- Core Stack -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="45" />
