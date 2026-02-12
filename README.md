@@ -92,7 +92,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/replit/replit-original.svg" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="45" />
-<img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" height="45" />
 
 </p>
 
