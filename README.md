@@ -1,12 +1,17 @@
 
 
-
 <h1 align="center">Hi 👋, I'm Sagnik Bose</h1>
+<h3 align="center">
+🚀 Full Stack Developer | 🤖 AI & GenAI  | ⚙️ Backend Systems
+<br/>
+🎓 B.Tech CSE | ☕ Java | 🐍 Python | 🧠 Building, Learning & Exploring
+</h3>
+<!-- <h1 align="center">Hi 👋, I'm Sagnik Bose</h1>
 <h3 align="center">
 🚀 Full Stack Developer | 🤖 AI & GenAI | 🔐 Cybersecurity
 <br/>
 🎓 B.Tech CSE | ☕ Java | 🐍 Python | 🧠 Building & Learning
-</h3>
+</h3> -->
 
 <div align="center">
   <a href="https://twitter.com/bose89231" target="_blank">
@@ -33,6 +38,10 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="600">
 
+</div>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=1000&color=F5F500&center=true&vCenter=true&width=850&lines=Code.+Build.+Learn.+Repeat.;B.Tech+CSE+Student+%40+Techno+Main+Salt+Lake;Full+Stack+%7C+AI+%26+GenAI+%7C+Backend;Building+Intelligent+%26+Scalable+Applications;Java+%7C+Python+%7C+JavaScript+%7C+SQL;Always+Learning.+Always+Building.+%F0%9F%94%A5" alt="Typing SVG"/>
 </div>
 
 <h2 align="left">🤝 Connect with me</h2>
@@ -121,15 +130,37 @@
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagnikbose-11-01&layout=compact&theme=highcontrast" alt=sagnikbose-11-01 />
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=sagnikbose-11-01&show_icons=true&locale=en&theme=highcontrast" alt="sagnikbose-11-01" /></p> -->
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sagnikbose-11-01&theme=neon_dark" alt="sagnikbose-11-01" /></p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
-<a href="https://github.com/sagnikbose-11-01">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sagnikbose-11-01&theme=highcontrast" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sagnikbose-11-01&theme=highcontrast" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sagnikbose-11-01&theme=highcontrast" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sagnikbose-11-01&theme=highcontrast" height="180em" />
+  <img
+    height="180em"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=sagnikbose-11-01&theme=neon_dark"
+    alt="GitHub Streak Statistics"
+  />
+</div>
+
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
+
+<!-- <h3 align="center">Statistics</h3> -->
+
+<div align="center">
+  <a href="https://github.com/sagnikbose-11-01">
+    <img
+      src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sagnikbose-11-01&theme=highcontrast"
+      height="180em"
+    />
+    <img
+      src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sagnikbose-11-01&theme=highcontrast"
+      height="180em"
+    />
+    <img
+      src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sagnikbose-11-01&theme=highcontrast"
+      height="180em"
+    />
+    <img
+      src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sagnikbose-11-01&theme=highcontrast"
+      height="180em"
+    />
+  </a>
 </div>
 <br>
 
@@ -144,8 +175,9 @@
 
 
 
+<h2>🎮 Contribution Journey</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Shadowblue3/Shadowblue3/main/output/pacman-contribution-graph-dark.svg" alt="Pacman Animation" />
+  <img src="https://raw.githubusercontent.com/Shadowblue3/Shadowblue3/main/output/pacman-contribution-graph-dark.svg" alt="Pacman Contribution Graph" />
 </p>
 
 
