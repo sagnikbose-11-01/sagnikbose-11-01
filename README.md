@@ -114,16 +114,14 @@
 </p>
 
 
-
-
 <h2 align="left">💻 My Workspace</h2>
 <p align="left">
-<img src="https://img.shields.io/badge/ASUS-TUF%20Gaming%20F15-blue?logo=asus&logoColor=white" alt="ASUS TUF Gaming F15"/>
-<img src="https://img.shields.io/badge/Windows-11-blue?logo=windows11&logoColor=white" alt="Windows 11"/>
-<img src="https://img.shields.io/badge/Intel-Core_i5_10300H-black?logo=intel&logoColor=white" alt="Intel Core i5-10300H"/>
-<img src="https://img.shields.io/badge/RAM-8GB-brightgreen?logo=ram&logoColor=white" alt="8 GB RAM"/>
+  <img src="https://img.shields.io/badge/ASUS-TUF%20Gaming%20A15-blue?logo=asus&logoColor=white" alt="ASUS TUF Gaming A15"/>
+  <img src="https://img.shields.io/badge/Windows-11%20Home-blue?logo=windows11&logoColor=white" alt="Windows 11 Home"/>
+  <img src="https://img.shields.io/badge/AMD-Ryzen%207%207445HS-red?logo=amd&logoColor=white" alt="AMD Ryzen 7 7445HS"/>
+  <img src="https://img.shields.io/badge/Radeon-740M-red?logo=amd&logoColor=white" alt="AMD Radeon 740M"/>
+  <img src="https://img.shields.io/badge/RAM-16GB-brightgreen?logo=ram&logoColor=white" alt="16GB RAM"/>
 </p>
-
 
 <h2>📊 GitHub Statistics</h2>
 <!-- <h3 align="left">Stars</h3>
