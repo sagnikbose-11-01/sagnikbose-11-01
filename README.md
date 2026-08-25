@@ -176,9 +176,19 @@
 
 
 
-<h2>📈 GitHub Graph</h2>
+<!-- <h2>📈 GitHub Graph</h2>
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sagnikbose-11-01&theme=merko" alt="GitHub Contribution Graph by Sagnik" />
+</p> -->
+
+<h2>📈 GitHub Graph</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sagnikbose-11-01&theme=high-contrast&hide_border=true"
+    alt="GitHub Contribution Graph by Sagnik"
+    width="100%"
+  />
 </p>
 
 
