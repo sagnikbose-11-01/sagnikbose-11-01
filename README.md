@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Sagnik Bos</h1>
+<h1 align="center">Hi 👋, I'm Sagnik Bose</h1>
 <h3 align="center">
 🚀 Full Stack Developer | 🤖 AI & GenAI  | ⚙️ Backend Systems
 <br/>
